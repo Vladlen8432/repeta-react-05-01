@@ -1,13 +1,23 @@
 {
   "files": {
     "main.css": "/repeta-react-05-01/static/css/main.7acaea2f.css",
-    "main.js": "/repeta-react-05-01/static/js/main.07d3183d.js",
+    "main.js": "/repeta-react-05-01/static/js/main.201540c1.js",
+    "static/js/415.297e3c2f.chunk.js": "/repeta-react-05-01/static/js/415.297e3c2f.chunk.js",
+    "static/js/818.a9d63474.chunk.js": "/repeta-react-05-01/static/js/818.a9d63474.chunk.js",
+    "static/js/791.8bca4596.chunk.js": "/repeta-react-05-01/static/js/791.8bca4596.chunk.js",
+    "static/js/397.c3ba6bf6.chunk.js": "/repeta-react-05-01/static/js/397.c3ba6bf6.chunk.js",
+    "static/js/102.d7e4a4d0.chunk.js": "/repeta-react-05-01/static/js/102.d7e4a4d0.chunk.js",
     "index.html": "/repeta-react-05-01/index.html",
     "main.7acaea2f.css.map": "/repeta-react-05-01/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/repeta-react-05-01/static/js/main.07d3183d.js.map"
+    "main.201540c1.js.map": "/repeta-react-05-01/static/js/main.201540c1.js.map",
+    "415.297e3c2f.chunk.js.map": "/repeta-react-05-01/static/js/415.297e3c2f.chunk.js.map",
+    "818.a9d63474.chunk.js.map": "/repeta-react-05-01/static/js/818.a9d63474.chunk.js.map",
+    "791.8bca4596.chunk.js.map": "/repeta-react-05-01/static/js/791.8bca4596.chunk.js.map",
+    "397.c3ba6bf6.chunk.js.map": "/repeta-react-05-01/static/js/397.c3ba6bf6.chunk.js.map",
+    "102.d7e4a4d0.chunk.js.map": "/repeta-react-05-01/static/js/102.d7e4a4d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.201540c1.js"
   ]
 }
